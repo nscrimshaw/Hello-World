@@ -1,4 +1,6 @@
 Hello-World
 ===========
 
-First test repo
+So this readme says something about my project. 
+
+I like chocolate. 
